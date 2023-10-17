@@ -1,1 +1,1 @@
-testMessage2
+testString
